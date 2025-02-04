@@ -2,7 +2,7 @@
 ### E aí! Eu me chamo Pedro, e sou estudante de Ciência da Computação 🤙
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrohenriqueogs/)
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/pedro-oliveira-a18100266/))](https://www.instagram.com/pedrohenriqueogs/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-oliveira-a18100266/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pedroogsch@gmail.com)
 
 ![pedrohogs GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohogs&show_icons=true&theme=synthwave)
