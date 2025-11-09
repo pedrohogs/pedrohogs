@@ -19,5 +19,3 @@
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
-
-Entusiasta de técnologia, música, arte e café. Buscando compreender nas linhas de código um meio de conexão real.
